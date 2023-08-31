@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpriansyah
-- 👀 I’m interested in Web Development and UI/UX Design
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m a Quality Assurance, Junior Programmer and Web Development
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on github project
 - 📫 How to reach me, on vpriansyah@gmail.com
 
