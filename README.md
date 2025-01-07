@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpriansyah
-- 👀 I’m a Quality Assurance, Junior Programmer and Web Development
-- 🌱 I’m currently learning Software Development
+- 👀 I’m a Quality Assurance
+- 🌱 I’m currently learning Software Testing Journey
 - 💞️ I’m looking to collaborate on github project
 - 📫 How to reach me, on vpriansyah@gmail.com
 
