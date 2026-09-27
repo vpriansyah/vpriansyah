@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer — Automation & API Testing</h3>
 
 <p align="center">
-Since 2023.
+Since 2023
 </p>
 
 ---
@@ -39,10 +39,6 @@ Since 2023.
 - 🔌 [`api-testing-newman`](#) — Postman/Newman collection integrated into CI pipeline
 - ⚡ [`locust-load-testing`](#) — Baseline performance scripts with reporting
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vpriansyah&show_icons=true&theme=default&hide_border=true" />
-</p>
 
 ### 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanza/)
