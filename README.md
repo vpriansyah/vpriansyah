@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer — Automation & API Testing</h3>
 
 <p align="center">
-Turning "it works on my machine" into "it works in production" since 2023.
+Since 2023.
 </p>
 
 ---
